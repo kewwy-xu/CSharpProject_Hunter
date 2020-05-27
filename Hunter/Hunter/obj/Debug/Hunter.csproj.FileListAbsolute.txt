@@ -1,0 +1,396 @@
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.csprojAssemblyReference.cache
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.exe.config
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.Form_login.resources
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.Form_reg.resources
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.Properties.Resources.resources
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.csproj.GenerateResource.cache
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.csproj.CoreCompileInputs.cache
+F:\C#\Hunter\Hunter\bin\Debug\Hunter.exe.config
+F:\C#\Hunter\Hunter\bin\Debug\Hunter.exe
+F:\C#\Hunter\Hunter\bin\Debug\Hunter.pdb
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\netstandard.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.AppContext.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.Concurrent.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.NonGeneric.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.Specialized.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ComponentModel.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ComponentModel.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Console.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Data.Common.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.Contracts.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.Debug.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.Process.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.Tools.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.Tracing.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Drawing.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Dynamic.Runtime.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Globalization.Calendars.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Globalization.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Globalization.Extensions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.Compression.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.FileSystem.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.IsolatedStorage.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.Pipes.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Linq.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Linq.Expressions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Linq.Parallel.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Linq.Queryable.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Http.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.NameResolution.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.NetworkInformation.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Ping.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Requests.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Security.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.Sockets.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.WebSockets.Client.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Net.WebSockets.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ObjectModel.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Reflection.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Reflection.Extensions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Reflection.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Resources.Reader.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Resources.ResourceManager.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Resources.Writer.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Extensions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Handles.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.InteropServices.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Numerics.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Claims.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.Principal.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Security.SecureString.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Text.Encoding.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Text.RegularExpressions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Overlapped.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Tasks.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Thread.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.ThreadPool.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Timer.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ValueTuple.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.ReaderWriter.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.XDocument.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.XmlDocument.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.XmlSerializer.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.XPath.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\C#\Hunter\Hunter\bin\Debug\BouncyCastle.Crypto.dll
+F:\C#\Hunter\Hunter\bin\Debug\EntityFramework.dll
+F:\C#\Hunter\Hunter\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\Hunter\Hunter\bin\Debug\Google.Protobuf.dll
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.dll
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Hash.xxHash.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Bcl.HashCode.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Options.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Primitives.dll
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.dll
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.EntityFramework.dll
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Web.dll
+F:\C#\Hunter\Hunter\bin\Debug\Renci.SshNet.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Buffers.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.Immutable.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.ComponentModel.Annotations.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Memory.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Numerics.Vectors.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.Helpers.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.Razor.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.dll
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.Razor.dll
+F:\C#\Hunter\Hunter\bin\Debug\Ubiety.Dns.Core.dll
+F:\C#\Hunter\Hunter\bin\Debug\WebMatrix.Data.dll
+F:\C#\Hunter\Hunter\bin\Debug\WebMatrix.WebData.dll
+F:\C#\Hunter\Hunter\bin\Debug\Zstandard.Net.dll
+F:\C#\Hunter\Hunter\bin\Debug\EntityFramework.xml
+F:\C#\Hunter\Hunter\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\Hunter\Hunter\bin\Debug\Google.Protobuf.xml
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.xml
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\C#\Hunter\Hunter\bin\Debug\K4os.Hash.xxHash.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Bcl.HashCode.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Options.xml
+F:\C#\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Primitives.xml
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.xml
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.Entity.EF6.xml
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.EntityFramework.xml
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+F:\C#\Hunter\Hunter\bin\Debug\MySql.Web.xml
+F:\C#\Hunter\Hunter\bin\Debug\Renci.SshNet.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Buffers.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Collections.Immutable.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Memory.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Numerics.Vectors.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.Helpers.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.Razor.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\C#\Hunter\Hunter\bin\Debug\System.Web.WebPages.Razor.xml
+F:\C#\Hunter\Hunter\bin\Debug\WebMatrix.Data.xml
+F:\C#\Hunter\Hunter\bin\Debug\WebMatrix.WebData.xml
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.csproj.CopyComplete
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.exe
+F:\C#\Hunter\Hunter\obj\Debug\Hunter.pdb
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Hunter.exe.config
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Hunter.exe
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Hunter.pdb
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\netstandard.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.AppContext.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.Concurrent.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.NonGeneric.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.Specialized.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ComponentModel.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ComponentModel.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Console.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Data.Common.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.Contracts.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.Debug.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.Process.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.Tools.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.Tracing.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Drawing.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Dynamic.Runtime.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Globalization.Calendars.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Globalization.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Globalization.Extensions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.Compression.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.FileSystem.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.IsolatedStorage.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.Pipes.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Linq.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Linq.Expressions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Linq.Parallel.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Linq.Queryable.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Http.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.NameResolution.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.NetworkInformation.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Ping.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Requests.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Security.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.Sockets.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.WebSockets.Client.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Net.WebSockets.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ObjectModel.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Reflection.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Reflection.Extensions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Reflection.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Resources.Reader.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Resources.ResourceManager.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Resources.Writer.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Extensions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Handles.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.InteropServices.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Numerics.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Claims.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.Principal.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Security.SecureString.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Text.Encoding.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Text.RegularExpressions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Overlapped.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Tasks.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Thread.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.ThreadPool.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Timer.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ValueTuple.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.ReaderWriter.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.XDocument.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.XmlDocument.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.XmlSerializer.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.XPath.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\BouncyCastle.Crypto.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\EntityFramework.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Google.Protobuf.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Hash.xxHash.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Options.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.EntityFramework.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Web.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Renci.SshNet.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Buffers.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.Immutable.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Memory.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Numerics.Vectors.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.Helpers.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.Razor.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.Razor.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Ubiety.Dns.Core.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\WebMatrix.Data.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\WebMatrix.WebData.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Zstandard.Net.dll
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\EntityFramework.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Google.Protobuf.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\K4os.Hash.xxHash.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Options.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.EntityFramework.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\MySql.Web.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\Renci.SshNet.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Buffers.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Collections.Immutable.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Memory.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Numerics.Vectors.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.Helpers.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.Razor.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\System.Web.WebPages.Razor.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\WebMatrix.Data.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\bin\Debug\WebMatrix.WebData.xml
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.csprojAssemblyReference.cache
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.exe.config
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.Form_login.resources
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.Form_reg.resources
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.Properties.Resources.resources
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.csproj.GenerateResource.cache
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.csproj.CoreCompileInputs.cache
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.csproj.CopyComplete
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.exe
+D:\VS projects\c# repos\c#作业库\CSharpProject_Hunter\Hunter\Hunter\obj\Debug\Hunter.pdb
