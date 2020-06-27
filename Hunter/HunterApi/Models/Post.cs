@@ -9,8 +9,11 @@ using System.Data;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Drawing;
+using HunterApi.Common;
+using Microsoft.AspNetCore.Http;
+using System.Reflection.Metadata;
 
-namespace Api.Models
+namespace HunterApi.Models
 {
     public class Post : IComparable<Post>
     {
@@ -18,30 +21,31 @@ namespace Api.Models
 
         public int PostId { set; get; }
        
-        public string UserId { set; get; }
+        public int UserId { set; get; }
         
         public string Title { set; get; }
 
         public string BriefDescription { set; get; }
         
-        public List<Image> Images{ set; get; }
+        public byte[] ImageByte{ set; get; }
 
         public float Price { set; get; }
 
-        public string Label { set; get; }
-
         public DateTime Time { set; get; }
 
-        public enum Types { } //类型分区
-
-        public  Types Type  { set; get; }
-
+        //类型分区
+        
+        public ItemTypes Type { set; get; }
+        //帖子类型
+        
+        public PostTypes PostType { get; set; }
+        
         public enum States { }//状态
-
+        
         public States State { set; get; }
-
-        public List<string> Comments { set; get; }
-
+        
+       // public List<string> Comments { set; get; }
+       
         public Post()
         {
 
@@ -53,7 +57,7 @@ namespace Api.Models
             return order != null &&
                    PostId == order.PostId;
         }
-
+        /*
         public override string ToString()
         {
             StringBuilder strBuilder = new StringBuilder();
@@ -61,12 +65,13 @@ namespace Api.Models
                 $"Label:{Label},Time:{Time},BrefDescription：{BriefDescription},State:{State}");
             return strBuilder.ToString();
         }
-
-
+        */
+    
         public int CompareTo(Post other)
         {
             if (other == null) return 1;
             return this.PostId.CompareTo(other.PostId);
         }
+        
     }
 }

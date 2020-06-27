@@ -27,13 +27,14 @@ namespace HunterApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddDbContextPool<HunterContext>(options => options
-               // 连接字符串"todoDatabase" 可以在appsetting.json中设置
-               .UseMySql(Configuration.GetConnectionString("OrderDatabase"),
+               // 连接字符串"HunterDatabase" 可以在appsetting.json中设置
+               .UseMySql(Configuration.GetConnectionString("HunterDatabase"),
                    mySqlOptions => mySqlOptions
-                   .ServerVersion(new Version(5, 7, 30), ServerType.MySql)
+                   .ServerVersion(new Version(8,0,19), ServerType.MySql)
            ));
-
+           
             services.AddControllers();
         }
 

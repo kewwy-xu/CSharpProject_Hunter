@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HunterClient.EntityClass.Collect">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAEAAAAQA=</HashCode>
+      <FileName>EntityClass\Collect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.EntityClass.Comment">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAoAQAAAAAAAQA=</HashCode>
+      <FileName>EntityClass\Comment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.EntityClass.Post" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEEAAIAAAAgAAAAAABAAgQAABAAAIQE=</HashCode>
+      <FileName>EntityClass\Post.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.EntityClass.SuccessfulTrade" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAgAAAAgAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>EntityClass\SuccessfulTrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.EntityClass.User">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAIEACQAAgAABAAAAioAQBABAIACASCQAgAAAUA=</HashCode>
+      <FileName>EntityClass\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.EntityClass.Preference" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAhA=</HashCode>
+      <FileName>EntityClass\Preference.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form3" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQACAAGlAAAADAAACSAAAAAABABwAAASAQAQA=</HashCode>
+      <FileName>Forms\Form_addPost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form_login" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAACAAAABIAACAIAACAAAAAAAEAAAMAQBAAAA=</HashCode>
+      <FileName>Forms\Form_login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.TextBoxEx" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAgAAAAIAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Forms\Form_login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form_main" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACiAIAAgECADABEBAICkCggyoMy/SBAogHBfAQBhFAA=</HashCode>
+      <FileName>Forms\Form_main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form_reg" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEQACCAAABDAAoCAAAACgAAECAQAAAAAQQAAAAA=</HashCode>
+      <FileName>Forms\Form_reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form_userInfo" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgCECEAEGCIDABFAAqCkAgASpJikSBAIIEhQQQhBFYA=</HashCode>
+      <FileName>Forms\Form_userInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Forms.Form_verify" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAACAAAABAAACgBAACIAQEIAAhACAAAQBAAAA=</HashCode>
+      <FileName>Forms\Form_verify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.Forms.Form_imageClick" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Forms\Form_imageClick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.Forms.Form_postDetail" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEkCAEAACAAAREAkBCAEAgCICggAAggBAAAEDBMiAA=</HashCode>
+      <FileName>Forms\Form_postDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.Forms.Form_postOwner" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAACCAAABAAAICAAAACgAAECAAAAEAAAQAAAQA=</HashCode>
+      <FileName>Forms\Form_postOwner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Program" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAgAAABEAAAAQAAAAAAAAQAAgAAAcA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Services.ManagePostsServices" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAIAAwAAhAQCAAIAAIAAAAAAAAgAAAAABAAAAA=</HashCode>
+      <FileName>Services\ManagePostsServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Services.PostServices" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAYAAICAQAKAAAAAAAAgAAAAAACAAgAQAAA=</HashCode>
+      <FileName>Services\PostServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HunterClient.Services.UserServices" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIABAAAgAAAAAAAAAABAAAEAAAQAAAIAAA=</HashCode>
+      <FileName>Services\UserServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HunterClient.Common.ItemTypes" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQEAAAAAABAABAAAEAAAAAAEDAEAAEAAg=</HashCode>
+      <FileName>Common\common.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HunterClient.Common.PostTypes" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\common.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HunterClient.Common.States" Collapsed="true">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Common\common.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="HunterClient.Forms.AppendString" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\Form_addPost.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
